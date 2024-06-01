@@ -10,7 +10,10 @@ This repository contains a simple OTP (One-Time Password) layout implemented usi
 
 ## Screenshots
 
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Bhavyansh03-tech/OTP_Layout/assets/96388594/6c08f050-153e-42b7-9c23-f58a4d07fe8d" alt="First Flow Row" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/Bhavyansh03-tech/OTP_Layout/assets/96388594/1ca24462-5c93-46d1-9d6a-91307b354d95" alt="Second Flow Row" style="width: 200px; height: auto;">
+</div>
 
 ## Installation
 
